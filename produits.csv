@@ -1,0 +1,6 @@
+produit_id,libelle,categorie,prix
+1,PC,Informatique,350000
+2,Smartphone,Informatique,200000
+3,Casque,Informatique,45000
+4,Clavier,Informatique,15000
+5,Souris,Informatique,10000
